@@ -12,7 +12,7 @@ export default function Landing() {
           className="mx-auto mb-6 w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 object-contain" 
         />
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 sm:mb-6 text-gray-900 dark:text-white">
-          Bienvenido a Nexus-T
+          Bienvenido a Nexus-T.
         </h1>
         <p className="text-base sm:text-lg md:text-xl mb-6 sm:mb-8 text-gray-700 dark:text-gray-300 px-4">
           Enlace de Conexión y Seguimiento Tutorial
