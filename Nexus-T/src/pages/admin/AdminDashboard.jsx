@@ -28,6 +28,7 @@ export default function AdminDashboard() {
       withoutGroup: 0,
       groupLeaders: 0,
     },
+    
     incidents: {
       total: 0,
       thisMonth: 0,
@@ -427,7 +428,7 @@ export default function AdminDashboard() {
               
               <div className="space-y-2">
                 <h4 className="text-sm font-semibold text-gray-700 dark:text-gray-300">
-                  Módulos Disponibles:
+                  Módulos Disponibles: 
                 </h4>
                 <ul className="text-sm text-gray-600 dark:text-gray-400 space-y-1">
                   <li className="flex items-center gap-2">
